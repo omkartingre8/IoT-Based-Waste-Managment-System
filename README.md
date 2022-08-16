@@ -5,8 +5,11 @@ Many countries, developing and developed alike, struggle with efficient garbage 
 
 The following codes are presented in this repository:
 
+
 1.Sender Wifi Modules Arduino Codes
+
 2.Reciever Wifi Module Arduino Code
+
 3.Python Code to send sensor readings to user interface HTML page
 
 A paper outlining our readings and findings is also shown.

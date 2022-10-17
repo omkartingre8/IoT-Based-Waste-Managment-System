@@ -12,4 +12,4 @@ The following codes are presented in this repository:
   3.Python Code to send sensor readings to user interface HTML page
 
 
-A paper outlining our readings and findings is also shown.
+A paper in IEEE format outlining our readings and findings is also shown.
